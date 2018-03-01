@@ -1,0 +1,11 @@
+Package: fonts
+Type: Package
+Title: Fonts Used at the United States Studies Centre 
+Version: 0.2.0
+Description: A collection of fonts used in our research at USSC.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Maintainer: Zoe Meers <zoe.meers@sydney.edu.au>
+Author: Zoe Meers
+RoxygenNote: 6.0.1
